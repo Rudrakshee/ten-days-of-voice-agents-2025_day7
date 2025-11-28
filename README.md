@@ -15,7 +15,7 @@ For this task, I built a voice-based **Food & Grocery Ordering Agent** that can:
 At the moment, **only the demo video has been uploaded** to this repository.
 
 ## 🔧 Coming Soon  
-The following are **already completed** and will be uploaded shortly:
+The following will be uploaded shortly:
 
 - Frontend implementation  
 - Backend logic  
